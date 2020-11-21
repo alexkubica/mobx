@@ -1,5 +1,11 @@
 # mobx
 
+## 6.0.5
+
+### Patch Changes
+
+-   [`989390d4`](https://github.com/mobxjs/mobx/commit/989390d46bbe9941b61ac6c6d1292f96445e7cc3) [#2594](https://github.com/mobxjs/mobx/pull/2594) Thanks [@urugator](https://github.com/urugator)! - Fixed [#2579](https://github.com/mobxjs/mobx/issues/2579) - `observable` does not ignore class instances
+
 > 🚨🚨🚨 If you are upgrading from V4/V5, please follow [the migration guide](https://mobx.js.org/migrating-from-4-or-5.html).
 
 ## 6.0.4
